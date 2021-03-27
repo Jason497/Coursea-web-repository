@@ -19,7 +19,15 @@ h2{
     font-size: large;
     border: 1px solid black;
     text-align: center;
+}
+#aaa > h2{
+    background-color: brown;
+}
+#boo > h2{
     background-color: aqua;
+}
+#cc > h2{
+    background-color: bisque;
 }
 p{
     padding-left:10px;
