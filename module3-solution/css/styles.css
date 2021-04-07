@@ -1,0 +1,17 @@
+div .text-center{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+body #thing{
+    background-color: gray!important;
+    border: 2px solid black;
+}
+body #thing ul{
+    margin-bottom: -1px;
+}
+li{
+    border: 1px solid black;
+}
+div .box-format{
+    background-color: gray;
+}
